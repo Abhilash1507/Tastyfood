@@ -1,0 +1,9 @@
+.slide{
+    height: 33rem;
+    width: 100%;
+    object-fit: fill;
+}
+
+.text{
+    color: rgb(255, 255, 253);
+}
